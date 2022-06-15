@@ -1,8 +1,8 @@
 {
   "expo": {
-    "name": "No303",
-    "slug": "No303-app",
-    "description": "No303 React Native App.",
+    "name": "Standad",
+    "slug": "Standad-app",
+    "description": "Standad React Native App.",
     "privacy": "public",
     "platforms": [
       "ios",
